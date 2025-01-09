@@ -1,4 +1,6 @@
-# AKM and AIM Technical Documentation
+# AKM Cyber Corp.
+## AKM and AIM Technical Documentation
 
-Technical documentation of the AKM and AIM methodology and framework.
+- Technical documentation repository.
+- Captures the AKM & AIM methodology plus framework.
 
