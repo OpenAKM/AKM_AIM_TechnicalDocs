@@ -1,5 +1,5 @@
 # OpenAKM
-![logo](images/AKMCyberLogo.png)
+![logo](images/OpenAKM-Logo.jpg)
 
 ## AKM and AIM Technical Documentation
 
